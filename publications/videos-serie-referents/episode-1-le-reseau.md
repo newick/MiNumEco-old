@@ -21,7 +21,6 @@ type: miniserie
 Comment les ministères agissent pour réduire leur empreinte environnementale ? Présentation de l'action de la MinumEco et des référents ministériels numérique écoresponsable.
 
 <!-- transcription-->
-
 *Transcription*
 
 A venir
