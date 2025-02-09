@@ -9,7 +9,8 @@
     "start": "eleventy --serve",
     "debug": "DEBUG=* eleventy",
     "deploy": "gh-pages -d _site -b prod",
-    "build-ghpages": "npx @11ty/eleventy"
+    "build-ghpages": "npx @11ty/eleventy",
+    "postbuild": "npx pagefind --site _site/ --output-subdir \"_pagefind\""
   },
   "repository": {
     "type": "git",
