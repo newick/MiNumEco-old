@@ -14,7 +14,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
-  
+
   eleventyConfig.addFilter('markdown', value => {
     return markdown.render(value);
   })
@@ -54,7 +54,7 @@ module.exports = function(eleventyConfig) {
         }
       }
     }
-  
+
     return pages.sort(function(a, b) {
       return (a.order || 0) - (b.order || 0);
     }).map(function(entry) {
@@ -72,12 +72,12 @@ module.exports = function(eleventyConfig) {
 
   function findNavigationEntryByKeys(nodes = [], keys = []) {
     let pages = [];
-    
+
     for (let key of keys) {
       for (let entry of nodes) {
         if (entry.data && entry.data.eleventyNavigation && entry.data.eleventyNavigation.key) {
           let entryKey = entry.data.eleventyNavigation.key;
-          
+
           if (entryKey === key) {
             pages.push({
               title: entry.data.title,
@@ -152,7 +152,7 @@ module.exports = function(eleventyConfig) {
     // Best paired with the `url` filter: https://www.11ty.dev/docs/filters/url/
 
     // You can also pass this in on the command line using `--pathprefix`
-    //pathPrefix: "/MiNumEco-old/",
+    pathPrefix: "/MiNumEco-old/",
 
     markdownTemplateEngine: "liquid",
     htmlTemplateEngine: "njk",
