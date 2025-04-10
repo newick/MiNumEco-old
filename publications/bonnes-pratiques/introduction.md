@@ -40,7 +40,7 @@ Le numérique plus responsable est un vaste sujet, qui ne concerne pas uniquemen
 
 **Ce guide est en amélioration continue**
 
-N’hésitez pas à contribuer à l’améliorer. [Nous contacter](/contact).
+N’hésitez pas à contribuer à l’améliorer. [Nous contacter]({{ '/contact' | url }}).
 
 
 <h2 id="comment-utiliser-ce-guide">Comment utiliser ce guide</h2>

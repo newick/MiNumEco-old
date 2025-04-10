@@ -51,7 +51,7 @@ Voir aussi [la page dédiée au guide sur data.gouv.fr]({{ metadata.guideBonnesP
 
 ## Contribuer
 
-Ce guide est en amélioration continue. N’hésitez pas à contribuer à l’améliorer : [nous contacter](/contact).
+Ce guide est en amélioration continue. N’hésitez pas à contribuer à l’améliorer : [Nous contacter]({{ '/contact' | url }}).
 
 
 ## Équipe projet

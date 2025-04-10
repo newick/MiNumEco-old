@@ -14,7 +14,7 @@ eleventyNavigation:
 
 Dans le cadre de la Brigade d'Intervention du Numérique (BIN), la MiNumEco propose des accompagnements à l'écoconception de services numériques et des formations aux enjeux du numérique responsable pour les administrations et agents publics. 
 
-[Nous contacter](/contact).
+[Nous contacter]({{ '/contact' | url }}).
 
 </div>
 
@@ -25,11 +25,11 @@ Dans le cadre de la Brigade d'Intervention du Numérique (BIN), la MiNumEco prop
     <div class="fr-card fr-enlarge-link">
       <div class="fr-card__body">
         <h2 class="fr-card__title">
-          <a href="/posts/formations2024T4/" class="fr-card__link">Formations 10 décembre 2024</a>
+          <a href="{{'/posts/formations2024T4/' | url}}" class="fr-card__link">Formations 10 décembre 2024</a>
         </h2>    
       </div>
       <div class="fr-card__img">
-        <img src="/img/formations/formation-ecoconception.webp" alt="">
+        <img src="{{'/img/formations/formation-ecoconception.webp' | url}}" alt="">
       </div>
     </div>
   </div>
@@ -84,6 +84,6 @@ Sélection non-exhaustive de formations, en licence libre et en libre accès dé
 
 Le référencement de ces formations, est volontairement limité en quantité pour en faciliter l’appropriation, la classification et les descriptions ont été réalisés par la DINUM. Celle-ci n’engage pas sa responsabilité quant à la fiabilité des contenus de formations.
 
-Une formation en licence libre manque dans cette liste ? Vous êtes une administration publique ou une collectivité, vous utilisez déjà certaines de ces formations ? [Nous contacter](/contact).
+Une formation en licence libre manque dans cette liste ? Vous êtes une administration publique ou une collectivité, vous utilisez déjà certaines de ces formations ? [Nous contacter]({{ '/contact' | url }}).
 
 <a href="https://campus.numerique.gouv.fr/catalogue/?themes=1&themes=2" class="fr-btn" target="_blank" title="Nouvelle fenêtre : les formations au numérique responsable sur le campus du numérique public">Consulter</a>

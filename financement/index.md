@@ -77,4 +77,4 @@ Les projets seront sélectionnés et le montant de cofinancement défini au rega
 
 <a href="https://www.demarches-simplifiees.fr/commencer/guichet-numerique-ecoresponsable" target="_blank" class="fr-btn">Déposer un dossier</a>
 
-Une question ? [Nous contacter](/contact).
+Une question ? [Nous contacter]({{ '/contact' | url }}).

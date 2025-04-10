@@ -136,7 +136,7 @@ Voir [la page dédiée du guide sur data.gouv.fr]({{ metadata.guideAchats.dataGo
 
 ## Contribuer
 
-<a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="https://purpoz.com/consultation/guide-pour-des-achats-numeriques-responsables/presentation/presentation" target="_blank" title="Voir la consultation publique - Nouvelle fenêtre">Voir la consultation publique</a> ou [Nous contacter](/contact/)
+<a class="fr-link fr-fi-external-link-line fr-link--icon-right" href="https://purpoz.com/consultation/guide-pour-des-achats-numeriques-responsables/presentation/presentation" target="_blank" title="Voir la consultation publique - Nouvelle fenêtre">Voir la consultation publique</a> ou [Nous contacter]({{ '/contact' | url }})
 
 ## Consulter
 

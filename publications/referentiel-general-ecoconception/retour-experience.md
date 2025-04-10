@@ -14,7 +14,7 @@ Quelques exemples de mise en œuvre d'une démarche d'écoconception de service 
 
 <div class="fr-highlight">
 
-Vous êtes une administration publique ou une collectivité, vous souhaitez partager votre expérience sur l'utilisation du Référentiel général d'écoconception de service numérique ? [Nous contacter](/contact).
+Vous êtes une administration publique ou une collectivité, vous souhaitez partager votre expérience sur l'utilisation du Référentiel général d'écoconception de service numérique ? [Nous contacter]({{ '/contact' | url }}).
 
 </div>
 
